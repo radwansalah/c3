@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vnIG1PWf1hpYSTMc617Il64emwOaOUWJRr4ZQn7zULM=",
+  "Source": "WordsBackend",
+  "BasePath": "_content/WordsBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
